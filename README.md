@@ -30,14 +30,16 @@ SOFTWARE ENVIRONMENT
 
 
 ## System Architecture
-![image](https://github.com/user-attachments/assets/e8a3f765-abbd-4960-95ec-af82f1fcab1d)
 
-![image](https://github.com/user-attachments/assets/f8562b12-b42d-4e0c-b792-680358d9d2f6)
+<img src="https://github.com/user-attachments/assets/f8562b12-b42d-4e0c-b792-680358d9d2f6"  style="width: 500px; height: 500px;">
 
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/2f2800ec-b796-4eda-b817-0b6bcad6dcd9)
+<img src= "https://github.com/user-attachments/assets/e8a3f765-abbd-4960-95ec-af82f1fcab1d"  style="width: 500px; height: 500px;">
+
+<img src= "https://github.com/user-attachments/assets/2f2800ec-b796-4eda-b817-0b6bcad6dcd9"  style="width: 500px; height: 500px;">
+ 
 
 
 
