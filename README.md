@@ -35,8 +35,6 @@ SOFTWARE ENVIRONMENT
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/da559958-4978-42eb-8a59-78a7f3abc23d)
-![image](https://github.com/user-attachments/assets/c8d4feec-9b18-43f0-98bf-48b2695d5ded)
 ![image](https://github.com/user-attachments/assets/2f2800ec-b796-4eda-b817-0b6bcad6dcd9)
 
 
