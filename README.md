@@ -1,77 +1,46 @@
-## Alzheimer’s disease detection using deep learning
- The project leverages the power of deep learning algorithms, such as convolutional neural networks and recurrent neural networks.The proposed methodology involves preprocessing the imaging data, training deep learning models, and optimizing hyperparameters to achieve the best classification performance. This work also highlights the importance of responsible AI in healthcare and encourages further research in this critical domain.
+## Crop Recommendation System using Machine Learning
+ A Crop Recommendation System (CRS) is a technological solution designed to assist farmers in making informed decisions about which crops to cultivate based on various factors such as soil characteristics, climate conditions, and historical crop performance. The primary goal of such a system is to enhance agricultural productivity, optimize resource usage, and contribute to sustainable farming practices. Crop Recommendation System leverages data-driven insights and machine learning algorithms to provide farmers with tailored recommendations for crop selection, contributing to sustainable and efficient agricultural practices.
 
 ## About
-A comprehensive approach Alzheimer's disease identifying is presented by combining Recurrent Neural Networks (RNNs) with Convolutional Neural Networks (CNNs). While Recurrent Neural Networks perform effectively with sequential data, like the temporal patterns in patient records, Convolutional Neural Networks are better at image processing tasks, resulting in them useful in understanding brain scans. In this scenario, Convolutional Neural Networks have the ability to identify changes in the brain caused by Alzheimer's disease by retrieving spatial information from medical images. In addition, Recurrent Neural Networks are able to identify emerging patterns and subtle changes as time passes by collecting temporal dependencies in longitudinal patient data.
+Agriculture and its allied sectors are undoubtedly the largest providers of livelihoodism rural India. The agriculture sector is also a significant contributor factor to the country's Gross Domestic Product (GDP). Blessing to the country is the overwhelming size of the agricultural sector. However, regrettable is the yield per hectare of crops in comparison to international standards. This is one of the possible causes for a higher suicide rate among marginal farmers in India. This paper proposes a viable and user- friendly yield prediction system for the farmers. The proposed system provides connectivity to farmers via a mobile application. GPS helps to identify the user location. The user provides the area & soil type as input. Machine learning algorithms allow choosing the most profitable crop list or predicting the crop yield for a user-selected crop. To predict the crop yield, selected Machine Leaming algorithms such as Support Vector Machine (SVM), Artificial Neural Network (ANN), Random Forest (RF), Multivariate Linear
+ 
+Regression (MLR), and K-Nearest Neighbour (KNN) are used. Among them, the Random Forest showed the best results with 95% accuracy. Additionally, the system also suggests the best time to use the fertilizers to boost up the yield.
 
-## Features
-● Early Detection
+## Advantages
 
-● Advanced Pattern Recognition
+•	It is time efficient process.
+•	More accuracy rate.
+•	More parameters are used.
 
-● Data Augmentation and Normalization
 
-● Potential for Standardization
 ## Requirements
 HARDWARE ENVIRONMENT
 
-● NVIDIA GeForce RTX 3080
+● •	RAM: 4 GB .
+•	Storage: 500 GB .
+•	CPU: 2 GHz or faster .
+•	Architecture: 32-bit or 64-bit 
 
-● 32 GB RAM
-
-● 12 Gen Intel Core I5-140p
 
 SOFTWARE ENVIRONMENT
 
-● Python 3.8
+● •	Operating System - Windows 11
+•	Coding Language –Python
+•	Google collab
 
-● Anaconda
-
-● Tensorflow
-
-● Matplotlib and Seaborn
-
-TECHNOLOGIES USED
-
-● Jupyter notebook
-
-● Deep Learning
 
 ## System Architecture
-![Architecture](https://github.com/user-attachments/assets/ddddcd67-2e6c-4bb2-a7d8-1174c377d54b)
+![image](https://github.com/user-attachments/assets/f8562b12-b42d-4e0c-b792-680358d9d2f6)
+
 
 ##Output
 
-Output1 - Brain MRI Sample in Batch
+![image](https://github.com/user-attachments/assets/da559958-4978-42eb-8a59-78a7f3abc23d)
+![image](https://github.com/user-attachments/assets/c8d4feec-9b18-43f0-98bf-48b2695d5ded)
+![image](https://github.com/user-attachments/assets/2f2800ec-b796-4eda-b817-0b6bcad6dcd9)
 
-![MRI scan](https://github.com/user-attachments/assets/9f1ef0a5-74f6-44fd-bca6-8a0caa66b708)
 
-Output2 - Predicted Values
-
-![Predicted values](https://github.com/user-attachments/assets/6ca5252b-9f2a-49f4-bd55-35113c0951d2)
-
-Output3 - Loss and Accuracy
-
-![Loss and accuracy](https://github.com/user-attachments/assets/6c4f2129-d386-4d41-a04e-b9b564acaecf)
-
-Output4 - Confusion Matrix
-
-![Confusion matrix](https://github.com/user-attachments/assets/d431e3f4-74e2-497c-a98e-a4e992fc4e14)
-
-Output5 - Alzheimer Probability of a Random MRI from Test Data
-
-![probability](https://github.com/user-attachments/assets/4df52847-8807-433b-a23e-b8358ac064ce)
-
-Output6 - Predicted Output
-
-![Output](https://github.com/user-attachments/assets/7ca3bc76-223f-460d-a345-6e960b954da1)
 
 ## Results and Impact
-The Alzheimer's Disease Prediction project has resulted in the potential to revolutionize early detection and intervention methods for those at risk of Alzheimer's disease when it is implemented in real-life
-situations. This research makes use of deep learning methods like Convolutional Neural Networks(CNN) and Recurrent Neural Networks (RNN) to analyze Magnetic Resonance Images (MRIs) and detect minute patterns that may be signs of Alzheimer's disease..
-In the end, this project's practical implementation should improve Alzheimer's early diagnosis, leading to better patient outcomes and expanding our knowledge of this neurological disease.
+We have proposed this with more efficiency and definitely it will be useful for the farmers. By this system, the can decision a profitable crop and then he gain more profit from that crop. By this the economy of the country will increase. Our work would help farmers to increase productivity in agriculture, prevent soil degradation in cultivated land, and reduce chemical use in crop production and efficient use of water resources.
 
-## Articles published / References
-A. Saxena and H. Kaur, "Alzheimer's Disease (AD) Detection Using Various Machine Learning Techniques: A Systematic Review," 2023 6th International Conference on Contemporary Computing and Informatics (IC3I), Gautam Buddha Nagar, India, 2023
-
-B. S. Rao and M. Aparna, "A Review on Alzheimer’s Disease Through Analysis of MRI Images Using Deep Learning Techniques," in IEEE Access, vol. 11, pp. 71542-71556, 2023
