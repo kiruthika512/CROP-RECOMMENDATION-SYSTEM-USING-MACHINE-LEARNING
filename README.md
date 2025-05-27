@@ -30,6 +30,8 @@ SOFTWARE ENVIRONMENT
 
 
 ## System Architecture
+![image](https://github.com/user-attachments/assets/e8a3f765-abbd-4960-95ec-af82f1fcab1d)
+
 ![image](https://github.com/user-attachments/assets/f8562b12-b42d-4e0c-b792-680358d9d2f6)
 
 
